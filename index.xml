@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kohei Kawaguchi</title>
+    <link>https://k-kohey.github.io/Portfolio/public/</link>
+    <description>Recent content on Kohei Kawaguchi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 05 Oct 2019 20:58:14 +0900</lastBuildDate>
+    
+	<atom:link href="https://k-kohey.github.io/Portfolio/public/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ブログを作りました</title>
+      <link>https://k-kohey.github.io/Portfolio/public/post/first/</link>
+      <pubDate>Sat, 05 Oct 2019 20:58:14 +0900</pubDate>
+      
+      <guid>https://k-kohey.github.io/Portfolio/public/post/first/</guid>
+      <description>使用テーマ: https://github.com/luizdepra/hugo-coder</description>
+    </item>
+    
+    <item>
+      <title>プロフィール</title>
+      <link>https://k-kohey.github.io/Portfolio/public/profile/</link>
+      <pubDate>Sat, 05 Oct 2019 20:58:14 +0900</pubDate>
+      
+      <guid>https://k-kohey.github.io/Portfolio/public/profile/</guid>
+      <description>職歴  Wantedly, Inc.  iOSエンジニア     アカデミック（~2020年3月） 所属  筑波大学大学 情報メディア創成学類  IPLAB WAVE チーム (志築文太郎 准教授 指導) 組み込み技術キャンパス OJT ソフトウェアコース 9 期生   学会  情報処理学会 学生会員  研究分野  Human Interface Input Interface Text Entry Method Virtual Reality  文献情報  川口航平，礒本俊弥，志築文太郎，高橋伸．VR 向けの掌上における日本語フリック入力手法の提案．
+ヒューマンインタフェースシンポジウム 2019 論文集，pp. 676-682，ヒューマンインタフェース学会，京都，2019 年 9 月． 八箇恭平，礒本俊弥，川口航平，志築文太郎 ターゲット内に両端が存在するスワイプジェスチャ. 第 27 回インタラクティブシステムとソフトウェアに関するワークショップ（WISS2019），日本ソフトウェア科学 会，6 pages, 2019 年 9 月．  学外活動  Maker Faire Tokyo 2018 採択 iOSDC2018 スカラーシップ 採択 try!</description>
+    </item>
+    
+  </channel>
+</rss>
