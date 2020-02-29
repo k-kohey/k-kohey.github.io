@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://k-kohey.github.io/Portfolio/public/</loc>
+    <loc>https://k-kohey.github.io/</loc>
     <lastmod>2019-10-05T20:58:14+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://k-kohey.github.io/Portfolio/public/post/</loc>
+    <loc>https://k-kohey.github.io/post/</loc>
     <lastmod>2019-10-05T20:58:14+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://k-kohey.github.io/Portfolio/public/post/first/</loc>
+    <loc>https://k-kohey.github.io/post/first/</loc>
     <lastmod>2019-10-05T20:58:14+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://k-kohey.github.io/Portfolio/public/profile/</loc>
+    <loc>https://k-kohey.github.io/profile/</loc>
     <lastmod>2019-10-05T20:58:14+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://k-kohey.github.io/Portfolio/public/categories/</loc>
+    <loc>https://k-kohey.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://k-kohey.github.io/Portfolio/public/tags/</loc>
+    <loc>https://k-kohey.github.io/tags/</loc>
   </url>
   
 </urlset>
